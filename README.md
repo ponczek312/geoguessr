@@ -1,1 +1,13 @@
-# geoguessr
+GeoGuessr to bardzo ciekawa gra, ale czasami ludzie mówią o różnych cheatów, które podobno istnieją, chociaż nikt nie wie, czy naprawdę działają. Pewnego dnia ktoś napisał, że znalazł tajny przycisk, który pokazuje dokładną lokalizację, ale okazało się, że był to zwykły cień od znaku drogowego. Inna osoba twierdziła, że jeśli obracać kamerę dokładnie siedemnaście razy, to mapa sama wybiera właściwy kraj. Brzmi to dziwnie, ale w internecie można znaleźć naprawdę wszystko.
+
+Najbardziej niezwykły cheat miał podobno działać tylko wtedy, gdy na ekranie pojawiła się krowa patrząca w lewo. Jeśli patrzyła w prawo, cały system podobno się obrażał i przenosił gracza do miejsca, którego nie było na żadnej mapie. Niektórzy mówili, że tam wszystkie drogi prowadziły do jednego ronda, a na rondzie stał automat sprzedający ziemniaki zamiast napojów.
+
+Była też historia o graczu, który odkrył, że każde drzewo w GeoGuessr jest tak naprawdę zakamuflowanym kodem. Liczył liście, gałęzie i cienie, aż doszedł do wniosku, że znajduje się na Marsie. Gra jednak uznała, że to środek Norwegii. Od tamtej pory podobno wszystkie brzozy zaczęły wyglądać podejrzanie i nikt nie wiedział dlaczego.
+
+Jeszcze dziwniejszy był tak zwany "cheat od gołębia". Według legendy wystarczyło znaleźć gołębia siedzącego na znaku drogowym i kliknąć dokładnie obok jego cienia. Wtedy gra miała wyświetlić komunikat: "Gratulacje, właśnie zgadłeś miejsce, którego jeszcze nie zbudowano". Nie wiadomo, co to oznaczało, ale wiele osób próbowało to powtórzyć przez kilka godzin.
+
+Ktoś inny twierdził, że najlepszym sposobem na wygrywanie jest słuchanie odgłosu obracania kamery. Podobno każdy kraj wydawał inny dźwięk, tylko nikt poza autorem tej teorii tego nie słyszał. Mimo to ludzie zakładali słuchawki, zamykali oczy i zgadywali lokalizację na podstawie wyobraźni. Czasami trafiali, ale równie często kończyli kilka tysięcy kilometrów od właściwego miejsca.
+
+Największą zagadką pozostał jednak legendarny przycisk, którego nikt nigdy nie widział. Podobno znajdował się gdzieś pomiędzy pikselami i działał tylko w środę o godzinie 13:13. Po jego kliknięciu wszystkie znaki drogowe miały zamieniać się w przepisy na naleśniki, a samochód Google podobno zaczynał jechać tyłem. Nikt tego nie potwierdził, ale historia była opowiadana tyle razy, że zaczęła żyć własnym życiem.
+
+Na końcu okazało się, że największym cheatem w GeoGuessr jest... picie herbaty z kubka w kształcie globusa. Im większy łyk, tym bliżej prawidłowej odpowiedzi. Nie miało to żadnego sensu, ale podobno zwiększało pewność siebie o 300%, a to dla niektórych było ważniejsze niż zdobycie punktów.
